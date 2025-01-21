@@ -1,4 +1,4 @@
 fileignoreconfig:
-  filename: src/config.json
+- filename: src/config.json
   checksum: dc22502c5899dde8dfb279341df4294b9da395a0f17d8fe2a57cc67e33cbcde0
 version: ""
